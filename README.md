@@ -1,4 +1,4 @@
-# 🔍 Interactive Posts Feed
+# 🔍 Kandinsky Art Gallery
 
 > 🚀 **Live Demo:** [Watch the demo in the browser](https://voldy831.github.io/html-css-project/)
 
