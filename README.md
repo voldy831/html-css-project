@@ -1,5 +1,8 @@
 # Kandinsky Art Gallery
 
+![screenshot 1](images/examples/first.png)
+![screenshot 2](images/examples/second.png)
+
 A static web gallery dedicated to the artworks of Wassily Kandinsky.
 
 The project presents a collection of Kandinsky's paintings with individual pages containing artwork images and descriptions. The website focuses on clean structure, simple navigation, and a consistent visual style.
